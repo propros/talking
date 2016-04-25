@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plist>
+    <talk1>
+        <icon>icon1.png</icon>
+        <name>鬼哥</name>
+        <content>我要成为石家庄首富；</content>
+    </talk1>
+    
+    <talk2 >
+        <icon>icon2.png</icon>
+        <name>康夫</name>
+        <content>我也要成为石家庄首富</content>
+    </talk2>
+    
+    <talk3 >
+        <icon>icon1.png</icon>
+        <name>杨超</name>
+        <content>鬼哥，你看看这图画的行吗？</content>
+    </talk3>
+    
+    <talk4>
+        <icon>icon2.png</icon>
+        <name>小郭</name>
+        <content>今天我不帮你们打排位了，@杨超，@张晨</content>
+    </talk4>
+    
+    <talk5>
+        <icon>icon1.png</icon>
+        <name>张晨</name>
+        <content>不行，小郭你一定要帮我打排位，今天能打到黄金1嘛？</content>
+    </talk5>
+    
+    <talk6>
+        <icon>icon2.png</icon>
+        <name>张函桥</name>
+        
+        <content>图要慢慢磨</content>
+    </talk6>
+    
+    <talk6>
+        <icon>icon1.png</icon>
+        <name>boss</name>
+        <content>我是补刀的。</content>
+    </talk6>
+    
+    <talk6>
+        <icon>icon2.png</icon>
+        <name>张伟</name>
+        <content>大家不要介意我的段子谢谢。</content>
+    </talk6>
+</Plist>
+
+
+
